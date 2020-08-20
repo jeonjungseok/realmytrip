@@ -12,7 +12,7 @@
     "async": "^3.1.0",
     "async-error-catcher": "^1.2.0",
     "aws-sdk": "^2.586.0",
-    "bcrypt": "^2.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.4",
